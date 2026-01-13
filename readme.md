@@ -1,3 +1,4 @@
+<img align="right" src="ack.png" alt="Grasp avali firmly like chicken burrito">
 hi i am dumb, i make dumb things.
 
 And in case you are wondering, yes, my stuff is written by an AI...
